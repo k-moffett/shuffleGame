@@ -1,0 +1,27 @@
+.App {
+  text-align: center
+}
+
+#square1 {
+  height: 50px;
+  width: 50px;
+  background: red;
+  border-style: solid;
+  border-width: 5px;
+}
+
+#square2 {
+  height: 50px;
+  width: 50px;
+  background: blue;
+  border-style: solid;
+  border-width: 5px;
+}
+
+#square3 {
+  height: 50px;
+  width: 50px;
+  background: yellow;
+  border-style: solid;
+  border-width: 5px;
+}
